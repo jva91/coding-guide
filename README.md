@@ -30,7 +30,7 @@ Use strong typed parameters in methods
 
 ### Using CRUD controllers
 
-Try to use only [CRUD](https://laravel.com/docs/8.x/controllers#actions-handled-by-resource-controller) methods in controllers. When using only CRUD functions the controller can't be bloated by to many functions. [Bloaters](https://refactoring.guru/refactoring/smells/bloaters)
+Try to use only [CRUD](https://laravel.com/docs/8.x/controllers#actions-handled-by-resource-controller) methods in controllers. When using only CRUD methods the controller can't be bloated by to many methods. [Bloaters](https://refactoring.guru/refactoring/smells/bloaters)
 
 ### Small methods
 
